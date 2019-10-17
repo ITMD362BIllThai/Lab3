@@ -236,7 +236,7 @@ label {
    input[type=checkbox] {
       height: 2em;
       width:  2em;
-      margin  2em;
+      margin:  2em;
    }
    #input-submit {
       text-align: center;
