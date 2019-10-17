@@ -211,8 +211,24 @@ label {
       font-size:5em;
       padding: 20px;
       text-align: center;
-      color:#f5f5;
+      color:#ffffff;
    }
+   p{
+      text-align: center;
+      color:ffffff;
+      font-size: 25px;
+      line-height: .9em;
+      padding-bottom: 25px;
+   }
+   #input-email {
+      margin-left: 10px;
+      font-size: 25px;
+      color:#ffffff;
+   }
+   #input-age-verification {
+      text-align: center;
+      color:#ffffff;
+   }   
    input[type=checkbox] {
       height: 2em;
       width:  2em;
