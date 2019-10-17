@@ -211,11 +211,11 @@ label {
       font-size:5em;
       padding: 20px;
       text-align: center;
-      color:#ffffff;
+      color: #ffffff;
    }
    p{
       text-align: center;
-      color:ffffff;
+      color: #ffffff;
       font-size: 25px;
       line-height: .9em;
       padding-bottom: 25px;
@@ -242,7 +242,7 @@ label {
       background-color: #9f9c9c;
       color: #0d0d0d;
       text-align: center;
-      padding: 20px 40px
+      padding: 20px 40px;
       font-family: 'Times New Roman', Times, serif;
    }
 }
