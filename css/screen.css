@@ -204,7 +204,7 @@ label {
 
 @media only screen and (min-width: 550px) {
    body {
-      font-family:"Times New Roman", Times, serif;
+      font-family:'Times New Roman', Times, serif;
       background-color: #383838
    }
    h1{
@@ -221,6 +221,15 @@ label {
    #input-submit {
       text-align: center;
    }
+   input[type=submit] {
+      boarder: none;
+      background-color: #9f9c9c;
+      color: #0d0d0d;
+      text-align: center;
+      padding: 20px 40px
+      font-family: 'Times New Roman', Times, serif;
+   }
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
