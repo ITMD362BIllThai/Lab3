@@ -208,8 +208,9 @@ label {
       background-color: #383838
    }
    h1 {
-      font-size:5em;
-      padding: 20px;
+      font-size:80px;
+      padding: 80px;
+      line-height: .8em;
       text-align: center;
       color: #ffffff;
    }
@@ -217,11 +218,11 @@ label {
       text-align: center;
       color: #ffffff;
       font-size: 25px;
-      line-height: .9em;
-      padding-bottom: 25px;
+      line-height: .8em;
+      padding-bottom: 40px;
    }
    #input-email {
-      margin-left: 10px;
+      margin-left: 30px;
       font-size: 25px;
       color:#ffffff;
    }
@@ -242,7 +243,7 @@ label {
       text-align: center;
    }
    input[type=submit] {
-      boarder: none;
+      border: none;
       background-color: #9f9c9c;
       color: #0d0d0d;
       text-align: center;
