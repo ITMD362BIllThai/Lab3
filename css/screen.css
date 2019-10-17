@@ -230,8 +230,8 @@ label {
       color:#ffffff;
    }   
    #email {
-      width 90%;
-      margin .1em .1em .1em 1.em;
+      width: 90%;
+      margin .1em 0em 1em 1em;
    } 
    input[type=checkbox] {
       height: 2em;
