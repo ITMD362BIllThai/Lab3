@@ -211,6 +211,7 @@ label {
       font-size:5em;
       padding: 20px;
       text-align: center;
+      color: #ffffff;
    }
    p {
       text-align: center;
@@ -228,6 +229,10 @@ label {
       text-align: center;
       color:#ffffff;
    }   
+   #email {
+      width 90%
+      margin .1em .1em .1em 1.em;
+   } 
    input[type=checkbox] {
       height: 2em;
       width:  2em;
